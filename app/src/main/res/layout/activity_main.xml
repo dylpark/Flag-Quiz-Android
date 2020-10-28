@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><!--TODO (STEP 5: Design the main screen layout as per our requirement.)-->
-<!--START-->
-<!--List of the points for to do :
-    1. Add a background image to our parent layout so we will add the image in drawable folder.-->
+<?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
@@ -88,5 +85,4 @@
                 android:textSize="18sp" />
         </LinearLayout>
     </androidx.cardview.widget.CardView>
-
-</LinearLayout><!--END-->
+</LinearLayout>
