@@ -7,13 +7,9 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
-    <!--TODO (STEP 3: Create a custom theme with no actionbar.)-->
-    <!--START-->
     <style name="NoActionBarTheme" parent="Theme.AppCompat.Light.NoActionBar">
         <item name="colorPrimary">@color/colorPrimary</item>
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
         <item name="colorAccent">@color/colorAccent</item>
     </style>
-    <!--END-->
-
 </resources>
