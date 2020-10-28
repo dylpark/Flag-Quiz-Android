@@ -9,9 +9,6 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-
-        <!--TODO (Step 2: Modify the activity parameters and theme as per requirement.)-->
-        <!--START-->
         <activity
             android:name=".MainActivity"
             android:screenOrientation="portrait"
@@ -23,7 +20,11 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <!--END-->
+
+        <activity
+            android:name=".QuizQuestionsActivity"
+            android:screenOrientation="portrait" />
+
     </application>
 
 </manifest>
