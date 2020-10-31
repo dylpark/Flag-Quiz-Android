@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Flag Quiz</string>
+    <string name="result">Result</string>
+    <string name="image">image</string>
+    <string name="congratulations">Congratulations</string>
+    <string name="finish">FINISH</string>
 </resources>
